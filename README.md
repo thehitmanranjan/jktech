@@ -1,4 +1,4 @@
-# SUSTVEST Backend
+# JKTECH Backend
 
 A NestJS backend service for user authentication, document management, and ingestion controls.
 
